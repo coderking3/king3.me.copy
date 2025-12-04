@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  '@king-3/converter-kit':
+    specifier: ^1.3.0
+    version: 1.3.0
+
+packages:
+
+  /@king-3/converter-kit@1.3.0:
+    resolution: {integrity: sha512-Tyb1fHTq0QWTvT0TvqJY8Ua/w8frEOnGVtULys3/qvwzXDY0V5d1qJWLVV5IDhVNcJLj/kli7CRsklyRUGw3Bg==}
+    hasBin: true
+    dev: true

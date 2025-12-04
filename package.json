@@ -1,0 +1,15 @@
+{
+  "name": "king3.me.copy",
+  "version": "1.0.0",
+  "description": "king3.me git copy",
+  "main": "index.js",
+  "scripts": {
+    "converter": "npx converter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@king-3/converter-kit": "^1.3.0"
+  }
+}
